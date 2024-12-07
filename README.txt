@@ -1,11 +1,8 @@
 ABC Mortgage Banking
 
-Team members:
-VIVEK SHARMA
-Mr. Saurabh Awasthi
-Ravi Kumar Dikshit
-Nancy Sahu
-Mohammed Shameem Abdul Kapoor
+Swagger url:
+http://localhost:8080/swagger-ui/index.htm
+
 
 
 Github:
