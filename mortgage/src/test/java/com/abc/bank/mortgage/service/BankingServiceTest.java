@@ -70,7 +70,7 @@ public class BankingServiceTest {
             bankingService.getCustomerDetails(customerId);
         });
 
-        assertEquals("Customer not found with ID: 102", exception.getMessage());
+        assertEquals("Customer not found with ID: 103", exception.getMessage());
         verify(customerRepository, times(1)).findById(customerId);
     }
 }
